@@ -2,7 +2,7 @@
  * @description 
  * @author cq
  * @Date 2020-09-22 11:15:28
- * @LastEditTime 2020-09-22 13:12:10
+ * @LastEditTime 2020-09-22 16:30:25
  * @LastEditors cq
 -->
 <template>
@@ -15,14 +15,14 @@
     { padding: '10px', background: 'red' },
   ]"
       :prizes="[
-    { fonts: [{ text: '前进舅家请客',top: '20px'  }], background: '#f8d384' },
-    { fonts: [{ text: '红子姨家请客',top: '20px' }] },
-    { fonts: [{ text: '国明舅家请客' ,top: '20px'}], background: '#f8d384' },
-    { fonts: [{ text: '通舅家请客',top: '20px' }] },
-    { fonts: [{ text: '玉姨家请客' ,top: '20px'}], background: '#f8d384' },
-    { fonts: [{ text: '俊俊家请客' ,top: '20px'}] },
-    { fonts: [{ text: '舅家请客' ,top: '20px'}], background: '#f8d384' },
-    { fonts: [{ text: '陈强家请客' ,top: '20px'}] },
+    { fonts: [{ text: '1请客',top: '20px'  }], background: '#f8d384' },
+    { fonts: [{ text: '2请客',top: '20px' }] },
+    { fonts: [{ text: '3请客' ,top: '20px'}], background: '#f8d384' },
+    { fonts: [{ text: '4请客',top: '20px' }] },
+    { fonts: [{ text: '5请客' ,top: '20px'}], background: '#f8d384' },
+    { fonts: [{ text: '6请客' ,top: '20px'}] },
+    { fonts: [{ text: '7请客' ,top: '20px'}], background: '#f8d384' },
+    { fonts: [{ text: '8请客' ,top: '20px'}] },
   ]"
       :buttons="[
     { radius: '40px', background: '#d64737' },
